@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 # Display "Best School" 10 times.
 
-counter=0
-while [ $counter -lt 10 ]
+Iterator=0
+while [ $Iterator -lt 10 ]
 do
-    if [ $counter -eq 9 ]
+    if [ $Iterator = 9 ]
     then
         echo "Hi"
     else
         echo "Best School"
     fi
-    counter=$((counter + 1))
+    Iterator=$((Iterator + 1))
 done
