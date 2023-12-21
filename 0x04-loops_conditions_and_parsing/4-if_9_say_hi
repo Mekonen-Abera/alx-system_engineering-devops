@@ -2,7 +2,6 @@
 # Display "Best School" 10 times.
 
 counter=0
-
 while [ $counter -lt 10 ]
 do
     if [ $counter -eq 9 ]
