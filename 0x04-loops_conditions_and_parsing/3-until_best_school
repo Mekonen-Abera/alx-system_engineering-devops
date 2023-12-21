@@ -1,1 +1,11 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
+# Initialize counter variable
+
+count=0
+
+# Execute the loop until count is equal to 10
+until [ $count -eq 10 ]
+do
+    echo "Best School"
+    (( count++ ))
+done
