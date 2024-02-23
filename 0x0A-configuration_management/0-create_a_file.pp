@@ -7,3 +7,4 @@ file { 'school':
   owner   => 'www-data',
   path    => '/tmp/school',
 }
+
