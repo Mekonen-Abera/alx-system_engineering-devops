@@ -1,1 +1,5 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
+#Get Apache to run on the container and to return a page
+#Containing Hello Holberton when querying the root of it
+#Done by:Mekonen Abera
+sudo /etc/init.d/apache2 restart
