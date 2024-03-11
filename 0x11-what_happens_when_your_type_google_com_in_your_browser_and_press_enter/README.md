@@ -47,7 +47,7 @@ If you take this project seriously and write an excellent article, it may be som
 #### Gliffy is free and what I personally use, but feel free to use what fits you best.
 #### Some unrelated examples:
 
-"E:\1_hpgLYYXm-zluqvaWJYheSg (1).png"
+["E:\1_hpgLYYXm-zluqvaWJYheSg (1).png"]()
 #### Share the URL of your diagram image in your answer file and il the field below.
 #### Please, remember that these blogs must be written in English to further your technical ability in a variety of settings.
 
