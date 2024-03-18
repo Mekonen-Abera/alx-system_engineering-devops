@@ -25,9 +25,13 @@
 * Configure web-01 so that its firewall redirects port 8080/TCP to port 80/TCP.
 * Your answer file should be a copy of the ufw configuration file that you modified to make this happen
 * Terminal in web-01:
+
 | Task | File |
+
 | ---- | ---- |
+
 | 0. Block all incoming traffic but | [0-block_all_incoming_traffic_but](./0-block_all_incoming_traffic_but) |
+
 | 1. Port forwarding | [100-port_forwarding](./100-port_forwarding) |
 
 ## Author's: Mekonen Abera
